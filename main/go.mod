@@ -12,4 +12,6 @@ require (
 	example.com/data_lib v0.0.0-00010101000000-000000000000
 	example.com/json_handler v0.0.0-00010101000000-000000000000
 	example.com/wallet_analyser v0.0.0-00010101000000-000000000000
+	github.com/ethereum/go-ethereum v1.9.25
+	github.com/ybbus/jsonrpc/v2 v2.1.6
 )
